@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portimg1.png'>"
+title: "Asteroids"
+excerpt: "When created this copy of Asteroids, I used Javascript Graphics on CodeHS. I learned how to incorporate trigonometry into my coding, specifically using sine and cosine to determine distance in x and y from rotation.<br/><img src='/images/portimg1.png'>"
 collection: portfolio
 ---
 
