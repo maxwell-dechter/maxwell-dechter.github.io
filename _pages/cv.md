@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<img src='/images/portimg1.png'>
+<img src='/images/resume.png'>
